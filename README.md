@@ -4,7 +4,7 @@
 #### By default, RStudio Server Pro uses port 8787 for HTTP and port 443 for HTTPS
 ##### !bin/bash
 
-##### 1--> Update th package manager
+##### 1--> Update the package manager
 sudo yum update -y
 
 ##### 2--> Install R
