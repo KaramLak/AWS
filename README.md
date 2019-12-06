@@ -1,6 +1,6 @@
 # AWS
 #### Check  https://www.rstudio.com/products/rstudio/download-server/ for latest version of RStudio Server
-#### On EC2 instance level : add the following inbound rule --> [Custom TCP Rule : TCP : 8787 : Anywhere]
+#### On EC2 [Amazon Linux] instance level : add the following inbound rule --> [Custom TCP Rule : TCP : 8787 : Anywhere]
 #### By default, RStudio Server Pro uses port 8787 for HTTP and port 443 for HTTPS
 ##### !bin/bash
 
